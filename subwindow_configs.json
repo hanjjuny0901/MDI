@@ -1,0 +1,16 @@
+[
+    {
+        "action_name": "New Test Case Table",
+        "widget_class": "widget.test_case.test_case_view.TestCaseTableView",
+        "view_model_class": "widget.test_case.test_case_viewmodel.TestCaseViewModel",
+        "base_title": "Test Case Table",
+        "size": [800, 600]
+    },
+    {
+        "action_name": "New Test Options Tree",
+        "widget_class": "widget.test_options.test_options_view.TestOptionsTreeView",
+        "view_model_class": "widget.test_options.test_options_viewmodel.TestOptionsViewModel",
+        "base_title": "Test Options Tree",
+        "size": [600, 400]
+    }
+]
